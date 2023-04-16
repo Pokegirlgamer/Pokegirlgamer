@@ -27,7 +27,7 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 
 
 # **👇Programming Languages**
-#### This is the list of what I'm using:
+#### This is the list of what I'm learning:
 ```
 - C
 - C#
@@ -53,10 +53,10 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 # 📶Daily / Weekly Status
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Pokegirlgamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokegirlgamer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![pokegirl gamer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
