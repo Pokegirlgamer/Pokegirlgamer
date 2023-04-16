@@ -1,12 +1,12 @@
 # **🗒️About Me**
 ### - A Programmer & Stardew Valley Mod Maker -
-- 👋 Howdy, I’m @PokegirlGamer
-- 👀 I’m Interested In Stardew Modding & Pokemon Rom Hacking
-- 🌱 I’m Currently Making Stardew Valley Mods On Nexus Site
-- 💞️ I'm a YouTuber, Digital Artist, Ux & Graphics Designer
-- 📫 How To Reach Me? Just Leave A Message Or Chat Me.
-- 💬 Ask Me About Anything, Feel Free To Chat Me!
-- ⚡ Fun Fact: I Prefer Using Notepad++ & Vscode Writing Codes
+- **👋 Howdy, I’m @PokegirlGamer**
+- **👀 I’m Interested In Stardew Modding & Pokemon Rom Hacking**
+- **🌱 I’m Currently Making Stardew Valley Mods On Nexus Site**
+- **💞️ I'm a YouTuber, Digital Artist, Ux & Graphics Designer**
+- **📫 How To Reach Me? Just Leave A Message Or Chat Me.**
+- **💬 Ask Me About Anything, Feel Free To Chat Me!**
+- **⚡ Fun Fact: I Prefer Using Notepad++ & Vscode Writing Codes**
 
 # **🔍Know me more**
 - **🫂Social Platforms: https://linktr.ee/pokegirl_gamer**
