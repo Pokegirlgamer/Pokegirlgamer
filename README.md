@@ -36,6 +36,8 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - Python
 - Javascript
 - Typescript
+- CSS (Not a programming language)
+- HTML (Not a programming language)
 ```
 
 
@@ -43,7 +45,21 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 # **⚙️Languages & Tools**
 ### This is the list of what I'm using:
 
-![image](https://user-images.githubusercontent.com/104786400/232286010-d41250c5-2f65-4c88-baff-f205a08d89c1.png) ![image](https://user-images.githubusercontent.com/104786400/232286042-674aad52-978c-4af3-b5ce-0580272eaee3.png) ![image](https://user-images.githubusercontent.com/104786400/232286493-9f58b63c-7b58-4dad-826b-ba551b2b8c06.png) ![image](https://user-images.githubusercontent.com/104786400/232286504-f744c7a5-81d5-4515-bf20-6c4a771a2410.png) ![image](https://user-images.githubusercontent.com/104786400/232286508-19b8f9d2-1f30-47be-822b-c7eeea2d40e2.png) ![image](https://user-images.githubusercontent.com/104786400/232286519-6776a356-21b8-4aa6-969e-ad0a8a04c93d.png) ![image](https://user-images.githubusercontent.com/104786400/232286526-bfa85940-35c5-4b13-a33c-86914c135893.png) ![image](https://user-images.githubusercontent.com/104786400/232286529-70f6f0bb-cd1e-4adc-bed1-0f3a96b979a7.png) ![image](https://user-images.githubusercontent.com/104786400/232286532-90182345-6fcb-4a3c-8341-55f43dc72d59.png) ![image](https://user-images.githubusercontent.com/104786400/232286541-449d3b4a-5ff1-427e-9f6a-1073427bd2e5.png) ![image](https://user-images.githubusercontent.com/104786400/232286549-5fdc0866-90b5-407f-ab65-44aac5efb7ca.png) ![image](https://user-images.githubusercontent.com/104786400/232286558-0350da49-6078-40a6-8c56-24648bef1fa1.png) ![image](https://user-images.githubusercontent.com/104786400/232286574-ac990ec0-45b3-42d2-aaa8-680ef224ef96.png) ![image](https://user-images.githubusercontent.com/104786400/232286582-f4e9f76c-a71c-4b31-92fb-e02c81c7b102.png) ![image](https://user-images.githubusercontent.com/104786400/232286590-3b21e3a4-68be-4108-a18b-ff0dab6a55b1.png) ![image](https://user-images.githubusercontent.com/104786400/232286605-63b31070-da61-4cdd-8d74-312eedc67c3a.png) ![image](https://user-images.githubusercontent.com/104786400/232286615-6a9f2d75-65bd-42e1-afc7-42b103d8b0e0.png) ![image](https://user-images.githubusercontent.com/104786400/232286621-702391bc-77f1-4737-96c7-311bee2d4f77.png) ![image](https://user-images.githubusercontent.com/104786400/232286628-15bd8049-d04e-486c-bf75-4d896a700347.png) ![image](https://user-images.githubusercontent.com/104786400/232291676-8efb1022-7126-4eb5-92c1-5ba72841cd06.png) ![image](https://user-images.githubusercontent.com/104786400/232291732-c12778a2-7a26-4268-843b-d64794d028ac.png) ![image](https://user-images.githubusercontent.com/104786400/232291771-69202268-b591-4b36-877d-ddee7d9ebe37.png) ![image](https://user-images.githubusercontent.com/104786400/232291785-72486d1f-d3b2-4fe5-9a40-277707dfb2e0.png) ![image](https://user-images.githubusercontent.com/104786400/232291918-08a2ed52-7d41-4393-b3bd-21f99fe510d3.png) ![image](https://user-images.githubusercontent.com/104786400/232292021-c4178d30-7c79-4ed3-adcc-1a48aa52e324.png) ![image](https://user-images.githubusercontent.com/104786400/232292122-c2deb09e-f32a-4e24-a472-9ec4460e0564.png)
+![image](https://user-images.githubusercontent.com/104786400/232295397-f40e35f0-1473-4fee-829f-81da1642a960.png) ![image](https://user-images.githubusercontent.com/104786400/232295550-f1bbc137-4c4d-4aac-be6d-b5325b7972fe.png) ![image](https://user-images.githubusercontent.com/104786400/232295648-acfc9bf7-e533-41e5-9c6f-c56955655060.png) ![image](https://user-images.githubusercontent.com/104786400/232297096-31fa5bf5-623a-494f-bfa1-52b6f46d8c4e.png)
+![image](https://user-images.githubusercontent.com/104786400/232297269-9251ba4a-479d-4c2b-95f6-deb262850371.png) ![image](https://user-images.githubusercontent.com/104786400/232297398-c4b7bed5-41c5-414c-8a99-1bb1f973e5d9.png) ![image](https://user-images.githubusercontent.com/104786400/232297713-40076d3f-3643-4d9c-ae0a-93262861d3c5.png) ![image](https://user-images.githubusercontent.com/104786400/232296616-e938796a-32bc-4666-9b43-ffcbc6affc89.png) ![image](https://user-images.githubusercontent.com/104786400/232296805-d4b3ed71-b8e5-4bdd-b40c-cad70d640b5e.png)
+![image](https://user-images.githubusercontent.com/104786400/232297957-71b5878a-4254-47d9-8483-fe35eb24d2d3.png) ![image](https://user-images.githubusercontent.com/104786400/232298191-5e1bfe76-cb7a-4b22-9cae-83b7067ba4c7.png) ![image](https://user-images.githubusercontent.com/104786400/232298489-96ae9266-bd58-441e-b5d8-77471d0a45d5.png) ![image](https://user-images.githubusercontent.com/104786400/232298648-97e5e51e-5cb5-45f2-b2ba-a0b992a3f86f.png) ![image](https://user-images.githubusercontent.com/104786400/232299247-23d98175-1095-46af-a9ed-c68b2c8ecafb.png) ![image](https://user-images.githubusercontent.com/104786400/232299603-0fd2107f-69b7-45ba-8eb7-b04856a2d422.png) ![image](https://user-images.githubusercontent.com/104786400/232299708-5c991beb-0769-4456-adf6-860334938b62.png) ![image](https://user-images.githubusercontent.com/104786400/232299860-39caf6fd-8f05-4391-981f-2ef3ec649b30.png) 
+
+
+# 📶Daily / Weekly Status
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![pokegirl gamer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
