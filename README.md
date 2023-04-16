@@ -9,7 +9,7 @@
 - ⚡ 𝙵un 𝙵act: 𝙸 𝙿refer 𝚄sing 𝙽otepad++ & 𝚅scode 𝚆riting 𝙲odes
 
 # **🔍Know me more**
-- **🫂𝚂ocial 𝙿latforms: https://linktr.ee/pokegirl_gamer**
+- **🫂Social Platforms: https://linktr.ee/pokegirl_gamer**
 
 # **❓Who is Pokegirl Gamer**
 **Pokegirl Gamer is a Content Creator and a Stardew Valley Mod Maker. She uploads videos about Pokemon & Stardew Valley.\
