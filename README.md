@@ -71,6 +71,7 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 | Cute Pink Seasonal Garage & Tractor      | A Content Patcher that replaces the original tractor assets with pink to match the Cute valley Pink and is now compatible with Generic Mod Config Menu.       | Completed  |
 | Cute Blue Seasonal Garage & Tractor   | A Content Patcher that replaces the original tractor assets with blue to match the Cute valley Blue and is now compatible with Generic Mod Config Menu        | Completed |
 | Cute Pink UI | A Content patcher that replaces your old and crappy **User Interface** with the colours of pink to match the Cute valley Pink | Idle |
+| Blue & Pink Tools | A retextured tools for Stardew Valley to match with your favourite colours of blue and pink | Completed |
 
 
 <!---
