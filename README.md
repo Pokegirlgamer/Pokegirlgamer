@@ -1,6 +1,6 @@
 # **🗒️About Me**
 ### - A Programmer & Stardew Valley Mod Maker -
-- 👋 Howdy, I’m @PokegirlGamer
+- 👋 Howdy, I’m **@PokegirlGamer**
 - 👀 I’m Interested In Stardew Modding & Pokemon Rom Hacking
 - 🌱 I’m Currently Making Stardew Valley Mods On Nexus Site
 - 💞️ I'm a YouTuber, Digital Artist, Ux & Graphics Designer
