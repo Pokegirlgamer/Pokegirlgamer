@@ -6,7 +6,7 @@
 - 💞️ I'm a YouTuber, Digital Artist, Ux & Graphics Designer
 - 📫 How To Reach Me? Just Leave A Message Or Chat Me.
 - 💬 Ask Me About Anything, Feel Free To Chat Me!
-- ⚡ Fun Fact: I Prefer Using GNOME Text Editor, XED & Vscode Writing Codes
+- ⚡ Fun Fact: I Prefer GNOME Text Editor, XED & Vscode Writing Codes
 
 # **🔍Know me more**
 - **🫂Social Platforms: https://linktr.ee/pokegirl_gamer**
