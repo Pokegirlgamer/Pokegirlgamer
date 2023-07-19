@@ -12,8 +12,7 @@
 - **🫂Social Platforms: https://linktr.ee/pokegirl_gamer**
 
 # **❓Who is Pokegirl Gamer**
-**Pokegirl Gamer is a Content Creator and a Stardew Valley Mod Maker. She uploads videos about Pokemon & Stardew Valley.\
-It is her passion & goal to help people to get their needs & to cure everyone's boredom.**
+**Pokegirl Gamer is a Content Creator. She uploads videos about Pokemon & Stardew Valley. It is her passion & goal to help people to get their needs & to cure everyone's boredom.**
 
 # **📨 Question & Answer**
 
