@@ -41,7 +41,7 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 
 
 
-# **⚙️Languages & Tools**
+# **⚙️Languages & Programs**
 ### This is the list of what i'm using:
 
 ![image](https://user-images.githubusercontent.com/104786400/232295397-f40e35f0-1473-4fee-829f-81da1642a960.png) ![image](https://user-images.githubusercontent.com/104786400/232295550-f1bbc137-4c4d-4aac-be6d-b5325b7972fe.png) ![image](https://user-images.githubusercontent.com/104786400/232295648-acfc9bf7-e533-41e5-9c6f-c56955655060.png) ![image](https://user-images.githubusercontent.com/104786400/232297096-31fa5bf5-623a-494f-bfa1-52b6f46d8c4e.png)
