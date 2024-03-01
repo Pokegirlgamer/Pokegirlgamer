@@ -30,6 +30,8 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - C
 - C#
 - C++
+- PHP
+- SQL
 - Java
 - Python
 - Javascript
