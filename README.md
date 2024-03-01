@@ -4,7 +4,7 @@
 - 👀 I’m Interested in Stardew Modding & Pokemon ROM Hacking
 - 🌱 I’m Currently making Stardew Valley mods on the Nexus site
 - 💞️ I'm a Content Creator, Digital Artist, Ux & Graphics Designer
-- 📫 How To Reach Me? Just leave a message on My discord or chat me.
+- 📫 How To Reach Me? Just leave a message on discord or chat me.
 - ⚡ Fun Fact: I prefer the GNOME Text Editor, XED, & VScode writing codes
 - 💬 Ask Me About Anything, Feel Free To Chat Me!
 
