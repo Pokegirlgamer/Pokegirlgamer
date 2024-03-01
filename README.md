@@ -124,7 +124,7 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - WPS; PDF, Presentation, Spreadsheets, Writer
 ```
 
-# **📊 Keep updated with my Stardew Valley Mods**
+# **📊 Stardew Valley Mods Collections**
 
 
 | Stardew Valley Mods      | Description | Progress     |
