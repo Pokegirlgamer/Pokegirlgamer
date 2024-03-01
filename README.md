@@ -44,12 +44,30 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 ```
 \\ Tools and Programs that are installed on my Computer.
 
-(Graphics)
+(Frequently Used)
+
+- Terminal
+- Stacer
+- Virtual Box
+- Startup Disk Creator
+- Text Editor; XED & GNOME
+- Visual Studio Code
+
+- Firefox
+- Discord
+- Slack
+- Contacts
+- Tabliss (extension)
+
+- Spectacle
+- OBS-Studio
+- Colour Picker
+
+(GRAPHICS)
 
 - Aseprite
 - Blender
 - BoxSVG
-- Colour Picker
 - Darktable
 - Dia
 - Drawing
@@ -59,9 +77,8 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - Krita
 - Natron
 - Pixelorama
-- Spectacle
 
-(Music & Video Production)
+(MUSIC & VIDEO)
 
 - Audacity
 - Calf Plugin Pack
@@ -72,7 +89,6 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - Kdenlive
 - Kodi
 - LMMS
-- OBS-Studio
 - Peek
 - SimpleScreenRecorder
 - Sound Converter
@@ -81,23 +97,22 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - VLC
 - vokoscreenNG
 
-(Programming)
+(PROGRAMMING)
 
 - Arduino
 - Atom
 - Bless Hex Editor
 - Blue Fish
 - Code Blocks
-- Jetbrains: Intellej IDEA, PyCharm, Rider
-- Jupyter Notebook
 - Lapce
 - Poedit
-- QT: Assistant, Creator, Designer, Linguist
 - Spyder
 - Sublime
-- Visual Studio Code
+- Jupyter Notebook
+- Jetbrains: Intellej IDEA, PyCharm, Rider
+- QT: Assistant, Creator, Designer, Linguist
 
-(Productivity)
+(PRODUCTIVITY)
 
 - Joplin
 - Calibre
