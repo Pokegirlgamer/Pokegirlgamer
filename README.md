@@ -37,30 +37,11 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - CSS (Not a programming language)
 - HTML (Not a programming language)
 
-\\ This is the list of what I am studying.
+\\ This is the list of what I know.
 ```
 
 # **⚙️ Free & Open-Source Softwares**
 ```
-((MOST USED))
-- Terminal
-- Stacer
-- Virtual Box
-- Startup Disk Creator
-- Text Editor; XED & GNOME
-- Visual Studio Code
-
-- Firefox
-- Discord
-- Slack
-- Contacts
-- Tabliss (extension)
-
-- Spectacle
-- OBS-Studio
-- Colour Picker
-
-
 ((GRAPHICS))
 - Aseprite
 - Blender
@@ -120,6 +101,25 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - OnlyOffice Desktop
 - Libre Office; Base, Calc, Draw, Impress, Math, Writer
 - WPS; PDF, Presentation, Spreadsheets, Writer
+
+
+((MOST USED))
+- Terminal
+- Stacer
+- Virtual Box
+- Startup Disk Creator
+- Text Editor; XED & GNOME
+- Visual Studio Code
+
+- Firefox
+- Discord
+- Slack
+- Contacts
+- Tabliss (extension)
+
+- Spectacle
+- OBS-Studio
+- Colour Picker
 
 \\ Tools and Programs that are installed on my Computer.
 ```
