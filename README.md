@@ -37,14 +37,12 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - CSS (Not a programming language)
 - HTML (Not a programming language)
 
-\\ Curious about the languages I am learning? Sure thing, here is the list!
+\\ This is the list of what I am studying.
 ```
 
 # **⚙️ Free & Open-Source Softwares**
 ```
-\\ Tools and Programs that are installed on my Computer.
-
-((Frequently Used))
+((MOST USED))
 - Terminal
 - Stacer
 - Virtual Box
@@ -122,6 +120,8 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 - OnlyOffice Desktop
 - Libre Office; Base, Calc, Draw, Impress, Math, Writer
 - WPS; PDF, Presentation, Spreadsheets, Writer
+
+\\ Tools and Programs that are installed on my Computer.
 ```
 
 # **📊 Stardew Valley Mods Collections**
