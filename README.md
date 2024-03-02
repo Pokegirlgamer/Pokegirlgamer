@@ -126,7 +126,7 @@ Join and *BEE* part of my team to help me with my future **Stardew Valley** mod 
 \\ Tools and Programs that are installed on my Computer.
 ```
 
-# **📊 Stardew Valley Mods Collections**
+# **📊 Stardew Valley Mod Collections**
 
 
 | Stardew Valley Mods      | Description | Progress     |
